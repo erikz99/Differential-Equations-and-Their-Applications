@@ -1,2 +1,2 @@
-# erikz99-Differential-Equations-and-Their-Applications
+# Differential-Equations-and-Their-Applications
 FMI
